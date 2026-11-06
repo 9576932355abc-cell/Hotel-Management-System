@@ -78,7 +78,7 @@ This project demonstrates practical implementation of full-stack development con
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/anmol1kush/Hotel-management-system.git
+git clone https://github.com/9576932355abc-cell/Hotel-management-system.git
 ```
 
 2. **Navigate to the project directory**
@@ -120,9 +120,8 @@ http://localhost:3000
 
 ## 👤 Author
 
-**Anmol Kushwaha**  
-B.Tech CSE | Full-Stack Developer  
-GitHub: https://github.com/anmol1kush
+**Shankaranand**  
+B.Tech ECE | Full-Stack Developer  
 
 ---
 
